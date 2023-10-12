@@ -6,7 +6,9 @@ En este repo se almacenará el desarrollo del hardware correspondiente al cargad
 * Comunicación CP con el vehículo.
 * Leds RGB para indicar el estado del cargador.
 * Medición de potencia consumida.
-* Posibilidad de conectar sensor de corriente de fuga de 6mA.
+* Posibilidad de conectar sensor de corriente de fuga de 6mA CC.
 * Comunicación OCPP con servidor.
-* Pantalla TFT Nextion.
+* Pantalla TFT Nextion 4.3".
+* Conectividad WiFi.
+* Conectividad 3G/4G y Ethernet como opcionales. 
  
