@@ -336,6 +336,18 @@
     [
       "8159cf7c-7477-4d57-9227-35cab5afcf8d",
       ""
+    ],
+    [
+      "74cf4917-56a1-4fde-a076-1f410323c467",
+      "CP2102 Programmer"
+    ],
+    [
+      "53450b03-e36f-47d2-804e-c5230f6499f2",
+      "Connector lock"
+    ],
+    [
+      "df540c0c-36be-43e2-9feb-530b287e8b54",
+      "Microcontroller"
     ]
   ],
   "text_variables": {}
