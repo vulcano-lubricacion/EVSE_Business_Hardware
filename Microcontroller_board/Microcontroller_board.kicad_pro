@@ -348,6 +348,14 @@
     [
       "df540c0c-36be-43e2-9feb-530b287e8b54",
       "Microcontroller"
+    ],
+    [
+      "50d96105-2d96-4447-966b-c9d6325abb2d",
+      "RS485"
+    ],
+    [
+      "8e8a96a1-d2d6-450d-b170-a9da1d757fb6",
+      "CP_Communication"
     ]
   ],
   "text_variables": {}

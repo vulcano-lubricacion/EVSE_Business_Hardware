@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid ec0a5051-0354-4720-8b3d-117caa09dce1)
+  (uuid 5e33839e-8207-4eae-99a6-45aa2a9a96b9)
 
   (paper "A4")
 
@@ -769,10 +769,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 09bc2c36-df6a-4650-95ba-cc889654cb49)
   )
-  (label "GPIO_uC" (at 198.12 104.14 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 0f5f6038-1d3b-42f0-a84e-ec007e67a5d1)
-  )
   (label "Blue_wire" (at 133.35 91.44 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2b41d4bb-c943-4f8e-9bc5-8ded66c30c8b)
@@ -785,9 +781,14 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 50f27607-e281-4fa4-a6e8-0a394c262765)
   )
-  (label "LOCK_Control" (at 81.28 87.63 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9efc530a-f3af-4137-81ae-f1d9c6961087)
+
+  (hierarchical_label "LOCK_CONTROL" (shape input) (at 81.28 87.63 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 73d767d4-cd4f-4a86-9906-dcd7f5c63708)
+  )
+  (hierarchical_label "LOCK_STATUS" (shape input) (at 198.12 104.14 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b480c8cc-bd81-459c-8fd3-f070416f47e7)
   )
 
   (symbol (lib_id "power:GND") (at 133.35 115.57 0) (unit 1)
