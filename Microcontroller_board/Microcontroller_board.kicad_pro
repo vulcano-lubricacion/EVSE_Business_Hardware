@@ -339,7 +339,7 @@
     ],
     [
       "74cf4917-56a1-4fde-a076-1f410323c467",
-      "CP2102 Programmer"
+      "CP2102 External Programmer"
     ],
     [
       "53450b03-e36f-47d2-804e-c5230f6499f2",
@@ -347,7 +347,7 @@
     ],
     [
       "df540c0c-36be-43e2-9feb-530b287e8b54",
-      "Microcontroller"
+      "ESP32_Microcontroller"
     ],
     [
       "50d96105-2d96-4447-966b-c9d6325abb2d",
@@ -356,6 +356,22 @@
     [
       "8e8a96a1-d2d6-450d-b170-a9da1d757fb6",
       "CP_Communication"
+    ],
+    [
+      "7ea714e9-2b2f-44a8-989f-9a228b2aa14a",
+      "Led interface"
+    ],
+    [
+      "1c9dc285-f7d5-4fe8-b5ac-80e650418659",
+      "PowerSupply"
+    ],
+    [
+      "071a8dfc-97e7-49ad-9e13-eafed2b7a0b1",
+      "STM32_Microcontroller"
+    ],
+    [
+      "74c828e6-688c-4762-a2dc-1edaf686966d",
+      "STM32_Programmer"
     ]
   ],
   "text_variables": {}
