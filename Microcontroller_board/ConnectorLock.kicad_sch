@@ -756,7 +756,7 @@
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 85150bf3-26df-4d56-a883-db5576edee89)
   )
-  (text "Lock Connector\n" (at 71.12 57.15 0)
+  (text "Lock Connector\n" (at 19.05 27.94 0)
     (effects (font (size 7 7) (thickness 1.2) bold italic) (justify left bottom))
     (uuid 9417587f-10b0-4659-b69b-ce5897c2bcde)
   )

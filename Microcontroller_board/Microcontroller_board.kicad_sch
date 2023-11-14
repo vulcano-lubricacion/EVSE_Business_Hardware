@@ -122,23 +122,6 @@
     )
   )
 
-  (sheet (at 184.15 209.55) (size 35.56 21.59) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 1c9dc285-f7d5-4fe8-b5ac-80e650418659)
-    (property "Sheetname" "PowerSupply" (at 184.15 208.8384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "PowerSupply.kicad_sch" (at 184.15 231.7246 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "Microcontroller_board"
-        (path "/8159cf7c-7477-4d57-9227-35cab5afcf8d" (page "8"))
-      )
-    )
-  )
-
   (sheet (at 262.89 149.86) (size 21.59 17.78) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -246,7 +229,7 @@
     )
     (pin "EN" input (at 151.13 49.53 0)
       (effects (font (size 1.27 1.27)) (justify right))
-      (uuid c351868a-fa93-449c-936f-af899a138bb3)
+      (uuid af883627-c968-45d4-a26f-34fcae89d4f7)
     )
     (instances
       (project "Microcontroller_board"
