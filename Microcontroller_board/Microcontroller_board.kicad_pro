@@ -362,16 +362,16 @@
       "Led interface"
     ],
     [
-      "1c9dc285-f7d5-4fe8-b5ac-80e650418659",
-      "PowerSupply"
-    ],
-    [
       "071a8dfc-97e7-49ad-9e13-eafed2b7a0b1",
       "STM32_Microcontroller"
     ],
     [
       "74c828e6-688c-4762-a2dc-1edaf686966d",
       "STM32_Programmer"
+    ],
+    [
+      "a89eb15f-e922-4510-ae40-61eda6cc799a",
+      "NextionDisplay43"
     ]
   ],
   "text_variables": {}
