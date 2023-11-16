@@ -222,11 +222,11 @@
     (uuid d063b618-7d4d-4ce3-ba6c-9539a9e4ce2d)
   )
 
-  (hierarchical_label "RX_Nextion" (shape input) (at 128.27 86.36 180) (fields_autoplaced)
+  (hierarchical_label "RX2_Nextion" (shape input) (at 128.27 86.36 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2b4127cf-9ede-4844-8a96-939dfcfb1522)
   )
-  (hierarchical_label "TX_Nextion" (shape input) (at 128.27 88.9 180) (fields_autoplaced)
+  (hierarchical_label "TX2_Nextion" (shape input) (at 128.27 88.9 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid a4280eca-ea50-45e2-9e8b-2795ba8250ab)
   )
